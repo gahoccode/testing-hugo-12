@@ -2,18 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Terminal</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 06 Apr 2025 23:12:00 +0700</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Apr 2025 23:19:30 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Update: First Release</title>
+      <link>/posts/changelog-update/</link>
+      <pubDate>Sun, 06 Apr 2025 23:19:30 +0700</pubDate>
+      
+      <guid>/posts/changelog-update/</guid>
+      <description>Project Update: First Release I&amp;rsquo;m excited to announce the first release of our Hugo-powered website! This post documents the changes and improvements we&amp;rsquo;ve made to get the site up and running.
+Version 0.1.0 (April 6, 2025) What&amp;rsquo;s New Initial Project Setup: We&amp;rsquo;ve set up a new Hugo site as the foundation for our blog Terminal Theme: We&amp;rsquo;ve integrated the beautiful, retro-inspired Terminal theme Sample Content: Created the basic content structure with an initial post GitHub Repository: The project is now hosted at github.</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
-      <link>//localhost:1313/posts/hello-world/</link>
+      <link>/posts/hello-world/</link>
       <pubDate>Sun, 06 Apr 2025 23:12:00 +0700</pubDate>
-      <guid>//localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;This is my first post using the Terminal theme for Hugo. Welcome to my site!&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;p&gt;The Terminal theme is a simple, retro theme for Hugo that provides:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Minimalist design&lt;/li&gt;&#xA;&lt;li&gt;Dark mode&lt;/li&gt;&#xA;&lt;li&gt;Responsive layout&lt;/li&gt;&#xA;&lt;li&gt;Easy customization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I hope you enjoy exploring this site!&lt;/p&gt;</description>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>Hello World This is my first post using the Terminal theme for Hugo. Welcome to my site!
+Features The Terminal theme is a simple, retro theme for Hugo that provides:
+Minimalist design Dark mode Responsive layout Easy customization I hope you enjoy exploring this site!</description>
     </item>
+    
   </channel>
 </rss>

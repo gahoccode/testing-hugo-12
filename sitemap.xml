@@ -2,24 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/hello/</loc>
+    <loc>/tags/changelog/</loc>
+    <lastmod>2025-04-06T23:19:30+07:00</lastmod>
+  </url><url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2025-04-06T23:19:30+07:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-04-06T23:19:30+07:00</lastmod>
+  </url><url>
+    <loc>/posts/changelog-update/</loc>
+    <lastmod>2025-04-06T23:19:30+07:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-04-06T23:19:30+07:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-04-06T23:19:30+07:00</lastmod>
+  </url><url>
+    <loc>/tags/update/</loc>
+    <lastmod>2025-04-06T23:19:30+07:00</lastmod>
+  </url><url>
+    <loc>/tags/hello/</loc>
     <lastmod>2025-04-06T23:12:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/hello-world/</loc>
+    <loc>/posts/hello-world/</loc>
     <lastmod>2025-04-06T23:12:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/tags/world/</loc>
     <lastmod>2025-04-06T23:12:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-04-06T23:12:00+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2025-04-06T23:12:00+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/world/</loc>
-    <lastmod>2025-04-06T23:12:00+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>
