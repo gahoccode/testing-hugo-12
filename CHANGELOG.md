@@ -22,7 +22,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolved Hugo build error: "site config key paginate was deprecated in Hugo v0.128.0"
 - Fixed content structure to match Terminal theme requirements by adding `content/posts` directory
 
-### Deployed
-- Website deployed to GitHub Pages
-- Main branch contains source code
-- gh-pages branch contains the built static site
+
