@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>hugo on Terminal</title>
-    <link>https://gahoccode.github.io/testing-hugo-12/tags/hugo/</link>
-    <description>Recent content in hugo on Terminal</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 06 Apr 2025 23:19:30 +0700</lastBuildDate><atom:link href="https://gahoccode.github.io/testing-hugo-12/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Project Update: First Release</title>
-      <link>https://gahoccode.github.io/testing-hugo-12/posts/changelog-update/</link>
-      <pubDate>Sun, 06 Apr 2025 23:19:30 +0700</pubDate>
-      
-      <guid>https://gahoccode.github.io/testing-hugo-12/posts/changelog-update/</guid>
-      <description>Project Update: First Release I&amp;rsquo;m excited to announce the first release of our Hugo-powered website! This post documents the changes and improvements we&amp;rsquo;ve made to get the site up and running.
-Version 0.1.0 (April 6, 2025) What&amp;rsquo;s New Initial Project Setup: We&amp;rsquo;ve set up a new Hugo site as the foundation for our blog Terminal Theme: We&amp;rsquo;ve integrated the beautiful, retro-inspired Terminal theme Sample Content: Created the basic content structure with an initial post GitHub Repository: The project is now hosted at github.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hugo on Terminal</title><link>https://gahoccode.github.io/testing-hugo-12/tags/hugo/</link><description>Recent content in hugo on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Apr 2025 23:19:30 +0700</lastBuildDate><atom:link href="https://gahoccode.github.io/testing-hugo-12/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Project Update: First Release</title><link>https://gahoccode.github.io/testing-hugo-12/posts/changelog-update/</link><pubDate>Sun, 06 Apr 2025 23:19:30 +0700</pubDate><guid>https://gahoccode.github.io/testing-hugo-12/posts/changelog-update/</guid><description>Project Update: First Release I&amp;rsquo;m excited to announce the first release of our Hugo-powered website! This post documents the changes and improvements we&amp;rsquo;ve made to get the site up and running.
+Version 0.1.0 (April 6, 2025) What&amp;rsquo;s New Initial Project Setup: We&amp;rsquo;ve set up a new Hugo site as the foundation for our blog Terminal Theme: We&amp;rsquo;ve integrated the beautiful, retro-inspired Terminal theme Sample Content: Created the basic content structure with an initial post GitHub Repository: The project is now hosted at github.</description></item></channel></rss>
